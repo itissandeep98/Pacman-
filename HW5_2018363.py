@@ -1,3 +1,6 @@
+#	This program implements a basic version of Pacman in Python 3.7
+
+
 import pygame,time,pygame_textinput
 from pygame.locals import *
 from numpy import loadtxt
